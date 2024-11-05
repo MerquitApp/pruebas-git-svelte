@@ -1,0 +1,17 @@
+.dark-mode-container{
+    background-color: black;
+    color: white;
+    width: 800px;
+    height: 250px;
+}
+
+.light-mode-container{
+    background-color: white;
+    color: black;
+    width: 800px;
+    height: 250px;
+}
+
+.light-mode-container p{
+    color: black;
+}
